@@ -1,6 +1,5 @@
 ## Решење
 
-``` cs
 using System;
 
 class Program
@@ -23,4 +22,4 @@ class Program
         Console.WriteLine($"Полупречник описаног круга R = {R}");
     }
 }
-```
+
