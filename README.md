@@ -45,20 +45,29 @@ class Program
     }
 }
 ```
+
 ### Тест Примери
 
-1. d: 10 R = 5
+1.
+
+
+```text
+d: 10 R = 5
 
 C:\Users\radlovacki-11\Documents\Mateja Peric\ConsoleApp16\ConsoleApp16\bin\Debug\ConsoleApp16.exe (process 2756) exited with code 0 (0x0).
 To automatically close the console when debugging stops, enable Tools->Options->Debugging->Automatically close the console when debugging stops.
 Press any key to close this window . . .
+```
 
+2.
 
-2. d: 12 R = 6
+```text
+d: 12 R = 6
 
 C:\Users\radlovacki-11\Documents\Mateja Peric\ConsoleApp16\ConsoleApp16\bin\Debug\ConsoleApp16.exe (process 8444) exited with code 0 (0x0).
 To automatically close the console when debugging stops, enable Tools->Options->Debugging->Automatically close the console when debugging stops.
 Press any key to close this window . . .
+```
 
 ### Објекти
 
